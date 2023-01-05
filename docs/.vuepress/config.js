@@ -16,6 +16,7 @@ module.exports = {
   dest: 'dist',
 
   head: [
+    ['link', { rel: 'icon', href: 'favicon.ico' }]
     // ['link', { rel: 'manifest', href: '/Docs/manifest.webmanifest' }],
     // ['meta', { name: 'theme-color', content: '#3eaf7c' }],
     // ...其他标签
