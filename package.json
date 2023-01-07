@@ -11,6 +11,7 @@
   "license": "ISC",
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^2.0.0-beta.60",
+    "@vuepress/plugin-external-link-icon": "^2.0.0-beta.60",
     "@vuepress/plugin-pwa": "^2.0.0-beta.60",
     "@vuepress/plugin-pwa-popup": "^2.0.0-beta.60",
     "@vuepress/plugin-search": "^2.0.0-beta.60",
