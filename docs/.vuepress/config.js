@@ -33,7 +33,16 @@ module.exports = {
     navbar: [
       {
         text: '🌈 HiperLink',
-        link: 'https://gitee.com/HiperLink/HiperLink-core'
+        children: [
+            {
+                text: 'Github',
+                link: 'https://github.com/Hiper-Link/HiperLink-core'
+            },
+            {
+                text: 'Gitee',
+                link: 'https://gitee.com/HiperLink/HiperLink-core'
+            }
+        ]
       },
       {
         text: '💡 介绍',
@@ -41,7 +50,7 @@ module.exports = {
       },
       {
         text: '📖 用户指南',
-        link: '/User/'
+        link: '/Docs/'
       },
       {
         text: '🧩 插件市场',
@@ -58,6 +67,11 @@ module.exports = {
     ],
     sidebar: {},
     editLink: true,
+    editLinkText: '在 Github 上编辑此页',
+    docsRepo: 'https://github.com/Hiper-Link/Docs',
+    docsBranch: 'master',
+    docsDir: 'docs',
+    editLinkPattern: ':repo/edit/:branch/:path',
     contributorsText: '贡献者',
     lastUpdated: true,
     lastUpdatedText: '上次更新',
