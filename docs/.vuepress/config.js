@@ -8,7 +8,7 @@ import { backToTopPlugin } from '@vuepress/plugin-back-to-top'
 module.exports = {
   // 站点配置
   lang: 'zh-CN',
-  title: 'HiperLink Docs',
+  title: 'HiperLink',
   description: '🌈 HiperLink | 🔗 嗨皮立刻 - 📆 使用文档',
   base: '/',
 
@@ -32,40 +32,41 @@ module.exports = {
     logo: 'logo.svg',
     navbar: [
       {
-        text: '🌈 HiperLink',
-        children: [
-            {
-                text: 'Github',
-                link: 'https://github.com/Hiper-Link/HiperLink-core'
-            },
-            {
-                text: 'Gitee',
-                link: 'https://gitee.com/HiperLink/HiperLink-core'
-            }
-        ]
-      },
-      {
-        text: '💡 介绍',
+        text: '💡 首页',
         link: '/'
-      },
-      {
+      }, {
         text: '📖 用户指南',
         link: '/Docs/'
-      },
-      {
+      }, {
         text: '🧩 插件市场',
         link: '/PluginMarket/'
-      },
-      {
+      }, {
         text: '🚧 插件开发',
         link: '/PluginDocs/'
-      },
-      {
+      }, {
         text: '📌 关于我们',
         link: '/About/'
+      }, {
+        text: '🌈 HiperLink',
+        children: [
+          {
+            text: 'Github',
+            link: 'https://github.com/Hiper-Link/HiperLink-core'
+          }, {
+            text: 'Gitee',
+            link: 'https://gitee.com/HiperLink/HiperLink-core'
+          }
+        ]
       }
     ],
-    sidebar: {},
+    sidebar: {
+      '/Docs/': [
+        {
+          text: '📖 用户指南',
+          children: ['/Docs/README.md', '/Docs/Start.md'],
+        },
+      ],
+    },
     editLink: true,
     editLinkText: '在 Github 上编辑此页',
     docsRepo: 'https://github.com/Hiper-Link/Docs',
