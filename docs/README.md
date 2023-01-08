@@ -10,7 +10,7 @@ actions:
     link: https://github.com/Hiper-Link/HiperLink-core/releases
     type: secondary
   - text: 快速上手
-    link: /Docs/Introduce.html
+    link: /Docs/Start.html
     type: primary
 features:
   - title: 全平台
