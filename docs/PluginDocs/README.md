@@ -18,3 +18,11 @@ HiperLink 需要支持`多平台`，你所选用的语言应该尽可能的支�
 :::
 
 如果你准备好了，那让我们开始吧！
+
+::: tip
+如果您是 `Golang` 的使用者，我们推荐您下载插件模板：
+
+Gitee: [https://gitee.com/HiperLink/example-plugins](https://gitee.com/HiperLink/example-plugins)
+
+Github: [https://github.com/Hiper-Link/example-plugins](https://github.com/Hiper-Link/example-plugins)
+:::

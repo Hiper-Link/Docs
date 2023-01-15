@@ -68,16 +68,18 @@ module.exports = {
       ],
       '/PluginDocs/': [
         {
-          text: '🚧 插件开发',
-          children: ['/PluginDocs/README.md', '/PluginDocs/Basic/Start.md', {
-            text: '你好，世界！',
-            children: [
-              '/PluginDocs/Basic/HelloWorld/go.md',
-              '/PluginDocs/Basic/HelloWorld/python.md',
-              '/PluginDocs/Basic/HelloWorld/csharp.md',
-
-            ],
-          }],
+          text: '插件开发',
+          children: ['/PluginDocs/README.md'],
+        }, {
+          text: '创建插件',
+          children: ['/PluginDocs/Basic/Format.md', '/PluginDocs/Basic/Metadata.md', '/PluginDocs/Basic/Start.md'],
+        }, {
+        text: '你好，世界！',
+          children: [
+              '/PluginDocs/HelloWorld/Go.md',
+              '/PluginDocs/HelloWorld/Python.md',
+              '/PluginDocs/HelloWorld/CSharp.md',
+          ],
         }
       ]
     },

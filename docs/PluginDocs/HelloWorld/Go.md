@@ -188,4 +188,4 @@ go build plugin.go
 
 回到HiperLink，查看并开启我们的插件。
 
-![HiperLink插件界面](../Start-2.png "HiperLink插件界面")
+![HiperLink插件界面](/img/Start-2.png "HiperLink插件界面")

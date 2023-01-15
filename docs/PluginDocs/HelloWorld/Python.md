@@ -13,7 +13,7 @@
 pip install grpcio
 pip install grpcio-tools
 ```
-Python插件开发需要模板，请[点击此处](/PluginDocs/down/hl_plugin_python.zip)下载模板，然后将模板解压至`study_plugin`文件夹。
+Python插件开发需要模板，请[点击此处](/file/hl_plugin_python.zip)下载模板，然后将模板解压至`study_plugin`文件夹。
 
 此时`study_plugin`的内部文件结构如下：
 
@@ -232,4 +232,4 @@ cxfreeze plugin.py
 
 回到HiperLink，查看并开启我们的插件。
 
-![HiperLink插件界面](../Start-2.png "HiperLink插件界面")
+![HiperLink插件界面](/img/Start-2.png "HiperLink插件界面")
