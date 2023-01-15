@@ -66,6 +66,20 @@ module.exports = {
           children: ['/Docs/README.md', '/Docs/Start.md'],
         },
       ],
+      '/PluginDocs/': [
+        {
+          text: '🚧 插件开发',
+          children: ['/PluginDocs/README.md', '/PluginDocs/Basic/Start.md', {
+            text: '你好，世界！',
+            children: [
+              '/PluginDocs/Basic/HelloWorld/go.md',
+              '/PluginDocs/Basic/HelloWorld/python.md',
+              '/PluginDocs/Basic/HelloWorld/csharp.md',
+
+            ],
+          }],
+        }
+      ]
     },
     editLink: true,
     editLinkText: '在 Github 上编辑此页',
