@@ -72,9 +72,9 @@ module.exports = {
           children: ['/PluginDocs/README.md'],
         }, {
           text: '创建插件',
-          children: ['/PluginDocs/Basic/Format.md', '/PluginDocs/Basic/Metadata.md', '/PluginDocs/Basic/Start.md'],
+          children: ['/PluginDocs/Basic/Format.md', '/PluginDocs/Basic/Metadata.md', '/PluginDocs/Basic/Example.md', '/PluginDocs/Basic/Tips.md'],
         }, {
-        text: '你好，世界！',
+          text: '你好，世界！',
           children: [
               '/PluginDocs/HelloWorld/Go.md',
               '/PluginDocs/HelloWorld/Python.md',
