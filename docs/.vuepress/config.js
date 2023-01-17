@@ -78,6 +78,7 @@ module.exports = {
           children: [
               '/PluginDocs/HelloWorld/Go.md',
               '/PluginDocs/HelloWorld/Python.md',
+              '/PluginDocs/HelloWorld/Rust.md',
               '/PluginDocs/HelloWorld/CSharp.md',
           ],
         }
