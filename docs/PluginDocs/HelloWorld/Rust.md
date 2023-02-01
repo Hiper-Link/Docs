@@ -333,7 +333,6 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     "author": ["天机"],
     "link": "hiper.ink",
     "dependencies": {
-        "hiperlink": ">=1.0.0"
     },
     "command": "./plugin",
     "args": [],

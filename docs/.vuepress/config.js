@@ -79,7 +79,13 @@ module.exports = {
               '/PluginDocs/HelloWorld/Go.md',
               '/PluginDocs/HelloWorld/Python.md',
               '/PluginDocs/HelloWorld/Rust.md',
-              '/PluginDocs/HelloWorld/CSharp.md',
+          ],
+        }, {
+          text: '前后端交互',
+          children: [
+              '/PluginDocs/Web/Index.md',
+'/PluginDocs/Web/Interaction.md',
+'/PluginDocs/Web/Back.md',
           ],
         }
       ]

@@ -214,7 +214,6 @@ cxfreeze plugin.py
     "author": ["天机"],
     "link": "hiper.ink",
     "dependencies": {
-        "hiperlink": ">=1.0.0"
     },
     "command": "./plugin",
     "args": [],
