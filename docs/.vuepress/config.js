@@ -66,6 +66,29 @@ module.exports = {
           children: ['/Docs/README.md', '/Docs/Start.md'],
         },
       ],
+      '/PluginDocs/': [
+        {
+          text: '插件开发',
+          children: ['/PluginDocs/README.md'],
+        }, {
+          text: '创建插件',
+          children: ['/PluginDocs/Basic/Format.md', '/PluginDocs/Basic/Metadata.md', '/PluginDocs/Basic/Example.md', '/PluginDocs/Basic/Tips.md'],
+        }, {
+          text: '你好，世界！',
+          children: [
+              '/PluginDocs/HelloWorld/Go.md',
+              '/PluginDocs/HelloWorld/Python.md',
+              '/PluginDocs/HelloWorld/Rust.md',
+          ],
+        }, {
+          text: '前后端交互',
+          children: [
+              '/PluginDocs/Web/Index.md',
+'/PluginDocs/Web/Interaction.md',
+'/PluginDocs/Web/Back.md',
+          ],
+        }
+      ]
     },
     editLink: true,
     editLinkText: '在 Github 上编辑此页',
