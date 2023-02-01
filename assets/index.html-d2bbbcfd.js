@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3e214e9b","path":"/About/","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"关于我们","slug":"关于我们","link":"#关于我们","children":[]}],"git":{"updatedTime":1673106873000,"contributors":[{"name":"Harry-zklcdc","email":"1269158832@qq.com","commits":1}]},"filePathRelative":"About/README.md"}');export{e as data};
