@@ -10,7 +10,7 @@ module.exports = {
   lang: 'zh-CN',
   title: 'HiperLink',
   description: '🌈 HiperLink | 🔗 嗨皮立刻 - 📆 使用文档',
-  base: '/',
+  base: '/Docs/',
 
   // Build
   dest: 'dist',
