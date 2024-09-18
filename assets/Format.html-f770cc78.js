@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-03604679","path":"/PluginDocs/Basic/Format.html","title":"插件目录格式","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1673794907000,"contributors":[{"name":"Harry-zklcdc","email":"1269158832@qq.com","commits":1}]},"filePathRelative":"PluginDocs/Basic/Format.md"}');export{t as data};

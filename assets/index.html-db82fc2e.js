@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6bc6c5b0","path":"/PluginDocs/","title":"简介","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1673830380000,"contributors":[{"name":"Harry-zklcdc","email":"1269158832@qq.com","commits":3},{"name":"Ceyase","email":"jjcyf@foxmail.com","commits":1}]},"filePathRelative":"PluginDocs/README.md"}');export{e as data};

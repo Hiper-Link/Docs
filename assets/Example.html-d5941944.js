@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-2dc44d58","path":"/PluginDocs/Basic/Example.html","title":"你好，HiperLink","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1673830380000,"contributors":[{"name":"Harry-zklcdc","email":"1269158832@qq.com","commits":1}]},"filePathRelative":"PluginDocs/Basic/Example.md"}');export{a as data};

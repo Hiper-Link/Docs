@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-791cb41c","path":"/Docs/Start.html","title":"📖 快速上手","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1673158677000,"contributors":[{"name":"Harry-zklcdc","email":"1269158832@qq.com","commits":1}]},"filePathRelative":"Docs/Start.md"}');export{t as data};

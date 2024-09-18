@@ -1,0 +1,21 @@
+<svg width="508" height="508" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" d="m0,336.592l127.999,0l0,128l-127.999,0l0,-128z" fill="rgb(48, 125, 238)" fill-rule="evenodd"/>
+  <path id="svg_2" d="m45.36,381.629l39.973,0l0,40.296l-39.973,0l0,-40.296z" fill="rgb(48, 125, 238)" fill-rule="evenodd"/>
+  <path id="svg_3" d="m114.86,255.337l-28.861,28.019l0,53.644l-41,0l0,-73.001l0.714,0l39.926,-38.761l29.221,30.099z" fill="rgb(48, 125, 238)" fill-rule="evenodd"/>
+  <path id="svg_4" d="m42.666,0l128,0l0,127.999l-128,0l0,-127.999z" fill="rgb(232, 65, 51)" fill-rule="evenodd"/>
+  <path id="svg_5" d="m87.703,45.36l40.296,0l0,39.973l-40.296,0l0,-39.973z" fill="rgb(232, 65, 51)" fill-rule="evenodd"/>
+  <path id="svg_6" d="m85.941,225.185l-0.608,0l0,-97.186l42.667,0l0,85.82l-42.059,11.366z" fill="rgb(232, 65, 51)" fill-rule="evenodd"/>
+  <path id="svg_7" d="m116.245,253.629l-1.824,1.858l-29.632,-29.091l1.189,-1.211l-0.645,0l0,-97.185l42.667,0l0,85.333l42.666,0l0,40.296l-54.421,0z" fill="rgb(229, 62, 48)" fill-rule="evenodd"/>
+  <path id="svg_8" d="m336.592,379.259l128,0l0,128l-128,0l0,-128z" fill="rgb(46, 160, 77)" fill-rule="evenodd"/>
+  <path id="svg_9" d="m381.629,424.296l40.296,0l0,40.296l-40.296,0l0,-40.296z" fill="rgb(46, 160, 77)" fill-rule="evenodd"/>
+  <path id="svg_10" d="m379.259,379.259l0,-82.963l-42.667,0l0,-42.667l42.667,0l42.666,0l0,42.667l0,82.963l-42.666,0z" fill="rgb(46, 160, 77)" fill-rule="evenodd"/>
+  <path id="svg_11" d="m379.259,42.666l128,0l0,128l-128,0l0,-128z" fill="rgb(252, 198, 40)" fill-rule="evenodd"/>
+  <path id="svg_12" d="m424.296,87.703l40.296,0l0,40.296l-40.296,0l0,-40.296z" fill="rgb(252, 198, 40)" fill-rule="evenodd"/>
+  <path id="svg_13" d="m464.592,241.43l0,0.347l-0.759,0l-42.536,41.129l-28.013,-29.549l28.641,-27.694l0,-54.997l42.667,0l0,70.077l0.15,0.155l-0.15,0.532z" fill="rgb(252, 198, 40)" fill-rule="evenodd"/>
+  <path id="svg_14" d="m170.666,170.666l165.926,0l0,165.926l-165.926,0l0,-165.926z" fill="rgb(75, 75, 75)" fill-rule="evenodd"/>
+  <path id="svg_15" d="m213.333,213.333l80.592,0l0,80.592l-80.592,0l0,-80.592z" fill="rgb(166, 166, 166)" fill-rule="evenodd"/>
+ </g>
+</svg>
